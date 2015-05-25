@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package test.java.com.test;
+package com.test;
 
 import org.junit.Test;
 

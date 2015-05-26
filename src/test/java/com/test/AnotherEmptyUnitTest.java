@@ -7,7 +7,7 @@ package com.test;
 
 import org.junit.Test;
 
-public class EmptyUnitTest_1{
+public class AnotherEmptyUnitTest{
 
 	@Test
 	public void emptyTest1() throws Exception {
